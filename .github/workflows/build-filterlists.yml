@@ -62,3 +62,5 @@ jobs:
         name: Logs
         path: logs/*.log
       if: ${{ always() }}
+permissions:
+  contents: write
