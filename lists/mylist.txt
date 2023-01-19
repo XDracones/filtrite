@@ -1,4 +1,0 @@
-# Lines starting with # are ignored, empty lines are also allowed
-# List one URL per  line:
-https://github.com/xarantolus/filtrite/blob/main/lists/bromite-extended-soft.txt
-https://github.com/XDracones/filtrite/blob/main/custom.txt
